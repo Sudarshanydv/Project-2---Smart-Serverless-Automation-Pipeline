@@ -1,4 +1,4 @@
-# SMART SERVERLESS AUTOMATION PIPELINE
+# Project 2 - SMART SERVERLESS AUTOMATION PIPELINE
 
 ## Complete Step-by-Step Industry Level Project Guide (Beginner Friendly)
 
