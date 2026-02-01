@@ -2,7 +2,7 @@
 
 ## Complete Step-by-Step Industry Level Project Guide   
        
-> **What you will build (One-line):** 
+> **What you will build (One-line):**  
 > A **smart serverless automation pipeline** where code changes automatically trigger a workflow that **builds, tests, and deploys a serverless application on AWS** without managing any servers.
 
 This is written in **very simple English**, exactly how **industry DevOps + Cloud engineers** explain and work.
