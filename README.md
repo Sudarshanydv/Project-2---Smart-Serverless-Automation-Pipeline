@@ -264,25 +264,14 @@ aws logs tail /aws/lambda/SmartServerlessFunction --follow
 
 ---
 
-## 1️⃣7️⃣ Resume Project Description (Industry Ready)
+## 1️⃣7️⃣ Resume Project Description
 
 > "Designed and implemented a Smart Serverless Automation Pipeline using GitHub Actions and AWS Lambda, enabling automatic deployment of serverless applications on code push, with secure IAM access, API Gateway integration, and CloudWatch monitoring."
 
 ---
 
-## 1️⃣8️⃣ Interview Explanation (Simple)
+## 1️⃣8️⃣ Interview Explanation
 
 > "Whenever code is pushed to GitHub, GitHub Actions automatically packages the Lambda code and deploys it to AWS. The function is exposed through API Gateway, fully serverless, scalable, and monitored using CloudWatch."
-
----
-
-## 1️⃣9️⃣ Next Enhancements (Advanced)
-
-* Terraform for infrastructure
-* DynamoDB integration
-* EventBridge automation
-* Multi-environment pipeline (dev/prod)
-* Email alerts using SNS
-
 ---
 
