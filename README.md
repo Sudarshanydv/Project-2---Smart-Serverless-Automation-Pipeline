@@ -10,7 +10,7 @@ This is written in **very simple English**, exactly how **industry DevOps + Clou
 ---  
 
 ## 1️⃣ What is a Smart Serverless Automation Pipeline?  
-
+ 
 ### Simple Meaning 
 
 A **Smart Serverless Automation Pipeline** means:
