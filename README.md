@@ -6,7 +6,7 @@
 > A **smart serverless automation pipeline** where code changes automatically trigger a workflow that **builds, tests, and deploys a serverless application on AWS** without managing any servers.
 
 This is written in **very simple English**, exactly how **industry DevOps + Cloud engineers** explain and work.
-
+ 
 --- 
 
 ## 1️⃣ What is a Smart Serverless Automation Pipeline?
