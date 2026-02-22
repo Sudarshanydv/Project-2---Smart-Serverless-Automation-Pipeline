@@ -7,7 +7,7 @@
 
 This is written in **very simple English**, exactly how **industry DevOps + Cloud engineers** explain and work.
    
---- 
+---  
 
 ## 1️⃣ What is a Smart Serverless Automation Pipeline?  
 
